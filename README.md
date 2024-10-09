@@ -44,6 +44,6 @@ Nota: En cada controlador podrá ver que se requiere en el body o si es GET que 
 ```sh
 - host:port/api/v1/users/login -> Este devuelve el JWT
 - host:port/api/v1/users -> Metodo POST (creacion de usuario)
--  host:port/api/v1/projects -> Metodos POST, GET, PUT, DELETE
--  host:port/api/v1/tasks -> Metodos POST, GET, PATCH, DELETE
+- host:port/api/v1/projects -> Metodos POST, GET, PUT, DELETE
+- host:port/api/v1/tasks -> Metodos POST, GET, PATCH, DELETE
 ```
